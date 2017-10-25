@@ -1,5 +1,5 @@
 body {
-    background-image: url('binary.jpg');
+    background-image: url('../img/binary.jpg');
 }
 
 .center {
@@ -12,9 +12,7 @@ body {
     background-color: rgba(256, 256, 256, 0.5);
 }
 
-#headers {
-
-}
+#headers {}
 
 #input-parent {
     position: relative;
